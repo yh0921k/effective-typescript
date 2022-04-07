@@ -1,0 +1,27 @@
+{
+  "name": "effective-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yh0921k/effective-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yh0921k/effective-typescript/issues"
+  },
+  "homepage": "https://github.com/yh0921k/effective-typescript#readme",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.18.0",
+    "eslint": "^8.12.0"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0"
+  }
+}
